@@ -119,9 +119,6 @@ document.addEventListener("keydown", (e) => {
 
 gameLoop();
 </script>
-
-</body>
-</html>
 <h1 align="center">👾 Ro'zmamatov Kamolbek 👾</h1>
 <h3 align="center">⚡ Middle Frontend Developer | Code Gamer | UI Architect</h3>
 
@@ -153,4 +150,7 @@ const kamolbek = {
   codeStyle: "Clean & Scalable",
   passion: ["Performance", "Modern UI", "Architecture"],
   openToWork: true
+</body>
+</html>
+
 };
