@@ -12,6 +12,9 @@
   <a href="https://k-ruzmamatov.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-39FF14?style=for-the-badge&logo=firefox&logoColor=black"/>
   </a>
+  <a href="https://instagram.com/ruzmamatov.99">
+    <img src="https://img.shields.io/badge/Instagram-@ruzmamatov.99-FF00FF?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
