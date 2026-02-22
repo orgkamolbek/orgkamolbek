@@ -3,7 +3,7 @@
 # 🟡 Snake Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ruzmamatov99/ruzmamatov99/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ruzmamatov99/ruzmamatov99/snake-output/snake-dark.svg" />
 </p>
 
 ---
