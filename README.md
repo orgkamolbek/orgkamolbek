@@ -30,8 +30,8 @@
 ---
 
 ### 🌐 Connect with Me
-- 📧 Email: your-email@gmail.com
-- 💬 Telegram: @your_username
+- 📧 Email: kruzmamatov2010@gmail.com
+- 💬 Telegram: @rkamolbekk99
 
 ---
 
