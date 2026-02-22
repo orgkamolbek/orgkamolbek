@@ -1,9 +1,9 @@
 name: Generate Snake
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch:
 
 jobs:
   build:
@@ -22,7 +22,7 @@ jobs:
       - name: Push Snake
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: snake-output
+          target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
