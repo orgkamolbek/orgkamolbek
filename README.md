@@ -17,11 +17,10 @@
 ---
 
 <h2 align="center" style="color:#FF00FF; text-shadow: 0 0 10px #FF00FF, 0 0 30px #FF00FF;">
-  🟡 Snake Game
-</h2>
+# 🟡 Snake Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ruzmamatov99/ruzmamatov99/output/snake-dark.svg" style="filter: drop-shadow(0 0 6px #FF00FF);" />
+  <img src="https://raw.githubusercontent.com/ruzmamatov99/ruzmamatov99/output/snake-dark.svg" />
 </p>
 
 ---
