@@ -1,64 +1,65 @@
+<h1 align="center">
+  Kamolbek Ruzmatov
+</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e1c26&height=120&section=header&text=Kamolbek%20Ruzmatov&fontSize=36&fontColor=00e5ff" />
+  <b>Frontend Engineer • UI Architect • JavaScript Specialist</b>
 </p>
 
 <p align="center">
-  <strong>Frontend Developer</strong><br/>
-  Clean Architecture • Performance • Scalable UI
-</p>
-
----
-
-## PROFILE
-Frontend-focused developer building **clean, maintainable and scalable web interfaces**.  
-Strong understanding of **core JavaScript**, UI performance, and modern frontend tooling.
-
-- Location: Uzbekistan  
-- Focus: Frontend Engineering  
-- Direction: Full-stack (step-by-step)
-
----
-
-## TECH STACK
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode&theme=dark" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Experiences;Clean+Code+Enthusiast;Future+Full+Stack+Engineer" />
 </p>
 
 ---
 
-## CURRENT FOCUS
-- Advanced JavaScript patterns
-- React component architecture
-- Clean UI logic & state handling
-- Git & GitHub best practices
+## 🧠 Engineering Philosophy
+I build scalable, maintainable and visually polished web interfaces.  
+Focused on performance, clean architecture and user-centered design.
 
 ---
 
-## GITHUB METRICS
+## ⚡ Tech Arsenal
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ruzmatov99&show_icons=true&hide_title=true&hide_border=true&bg_color=0e1c26&text_color=ffffff&icon_color=00e5ff" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmatov99&hide_border=true&background=0e1c26&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&text_color=ffffff" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,figma" />
 </p>
 
 ---
 
-## FEATURED PROJECTS
-- **Frontend UI Components** – reusable components
-- **JavaScript Utilities** – logic-focused mini tools
-- **Learning Projects** – clean & documented
-
-> Quality over quantity. Every repo has purpose.
+## 📊 Performance Metrics
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ruzmatov99&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmatov99&theme=radical&hide_border=true&background=0D1117" />
+</p>
 
 ---
 
-## WORK PRINCIPLES
-- Write readable code
-- Avoid unnecessary complexity
-- Think in components
-- Improve every commit
+## 🏆 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruzmatov99&theme=react-dark&hide_border=true&bg_color=0D1117" />
+</p>
+
+---
+
+## 🚀 Current Focus
+- Advanced React Patterns
+- Component Architecture
+- Clean Code Principles
+- Building Production Ready Projects
+
+---
+
+## 🌐 Connect
+<p align="center">
+  <a href="https://t.me/yourusername">
+    <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e1c26&height=80&section=footer" />
+  <i>Code is not just written. It is engineered.</i>
 </p>
