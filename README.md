@@ -1,6 +1,7 @@
 <h1 align="center" style="color:#39FF14; text-shadow: 0 0 8px #39FF14, 0 0 20px #39FF14;">
   👾 Ro'zmamatov Kamolbek 👾
 </h1>
+
 <h3 align="center" style="color:#8A2BE2; text-shadow: 0 0 5px #8A2BE2, 0 0 10px #8A2BE2;">
   ⚡ Middle Frontend Developer | Code Gamer | UI Architect
 </h3>
@@ -19,19 +20,181 @@
 
 ---
 
-<h2 align="center" style="color:#FF00FF; text-shadow: 0 0 10px #FF00FF, 0 0 30px #FF00FF;">
-# 🟡 Snake Game
+# 🟡 Snake Game — Full Working Code
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ruzmamatov99/ruzmamatov99/output/snake-dark.svg" />
-</p>
+### 📄 index.html
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Snake Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Snake Game</h1>
+  <canvas id="game" width="400" height="400"></canvas>
+  <script src="script.js"></script>
+</body>
+</html>
+```
+
+### 🎨 style.css
+```css
+body {
+  background: #0d1117;
+  color: white;
+  text-align: center;
+  font-family: Arial;
+}
+
+canvas {
+  background: black;
+  border: 2px solid #00ff88;
+}
+```
+
+### ⚙ script.js
+```javascript
+const canvas = document.getElementById("game");
+const ctx = canvas.getContext("2d");
+
+const box = 20;
+const canvasSize = 400;
+
+let snake = [{ x: 200, y: 200 }];
+let direction = "RIGHT";
+
+let food = {
+  x: Math.floor(Math.random() * 20) * box,
+  y: Math.floor(Math.random() * 20) * box
+};
+
+document.addEventListener("keydown", changeDirection);
+
+function changeDirection(e) {
+  if (e.key === "ArrowLeft" && direction !== "RIGHT") direction = "LEFT";
+  if (e.key === "ArrowUp" && direction !== "DOWN") direction = "UP";
+  if (e.key === "ArrowRight" && direction !== "LEFT") direction = "RIGHT";
+  if (e.key === "ArrowDown" && direction !== "UP") direction = "DOWN";
+}
+
+function draw() {
+  ctx.fillStyle = "black";
+  ctx.fillRect(0, 0, canvasSize, canvasSize);
+
+  for (let i = 0; i < snake.length; i++) {
+    ctx.fillStyle = i === 0 ? "#00ff88" : "white";
+    ctx.fillRect(snake[i].x, snake[i].y, box, box);
+  }
+
+  ctx.fillStyle = "red";
+  ctx.fillRect(food.x, food.y, box, box);
+
+  let headX = snake[0].x;
+  let headY = snake[0].y;
+
+  if (direction === "LEFT") headX -= box;
+  if (direction === "UP") headY -= box;
+  if (direction === "RIGHT") headX += box;
+  if (direction === "DOWN") headY += box;
+
+  if (
+    headX < 0 || headY < 0 ||
+    headX >= canvasSize || headY >= canvasSize ||
+    collision(headX, headY, snake)
+  ) {
+    clearInterval(game);
+    alert("Game Over");
+  }
+
+  if (headX === food.x && headY === food.y) {
+    food = {
+      x: Math.floor(Math.random() * 20) * box,
+      y: Math.floor(Math.random() * 20) * box
+    };
+  } else {
+    snake.pop();
+  }
+
+  const newHead = { x: headX, y: headY };
+  snake.unshift(newHead);
+}
+
+function collision(x, y, array) {
+  return array.some(segment => segment.x === x && segment.y === y);
+}
+
+const game = setInterval(draw, 100);
+```
 
 ---
 
-<h2 align="center" style="color:#00FFFF; text-shadow: 0 0 10px #00FFFF, 0 0 30px #00FFFF;">
-  👾 Pacman Game
-</h2>
+# 👾 Pacman Game — Full Working Code
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ruzmamatov99/ruzmamatov99/output/pacman-contribution-graph-dark.svg" style="filter: drop-shadow(0 0 6px #00FFFF);" />
-</p>
+### 📄 index.html
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pacman</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Pacman</h1>
+  <canvas id="game" width="400" height="400"></canvas>
+  <script src="script.js"></script>
+</body>
+</html>
+```
+
+### 🎨 style.css
+```css
+body {
+  background: #000;
+  color: yellow;
+  text-align: center;
+}
+canvas {
+  background: #111;
+  border: 2px solid yellow;
+}
+```
+
+### ⚙ script.js
+```javascript
+const canvas = document.getElementById("game");
+const ctx = canvas.getContext("2d");
+
+let x = 200;
+let y = 200;
+let size = 20;
+
+document.addEventListener("keydown", move);
+
+function move(e) {
+  if (e.key === "ArrowLeft") x -= size;
+  if (e.key === "ArrowRight") x += size;
+  if (e.key === "ArrowUp") y -= size;
+  if (e.key === "ArrowDown") y += size;
+}
+
+function drawPacman() {
+  ctx.fillStyle = "black";
+  ctx.fillRect(0, 0, 400, 400);
+
+  ctx.beginPath();
+  ctx.arc(x, y, size, 0.2 * Math.PI, 1.8 * Math.PI);
+  ctx.lineTo(x, y);
+  ctx.fillStyle = "yellow";
+  ctx.fill();
+}
+
+function gameLoop() {
+  drawPacman();
+  requestAnimationFrame(gameLoop);
+}
+
+gameLoop();
+```
+
+---
