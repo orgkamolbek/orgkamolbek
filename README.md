@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ibragimov-owner/ibragimov-owner/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/ruzmamatov99/ruzmamatov99/output/snake.svg" alt="snake animation" />
 </p>
 
 ![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
