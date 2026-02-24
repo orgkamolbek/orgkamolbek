@@ -17,3 +17,10 @@
     <img src="https://img.shields.io/badge/Instagram-@ruzmamatov.99-FF00FF?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ibragimov-owner/ibragimov-owner/output/snake.svg" alt="snake animation" />
+</p>
+
+![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
+![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
