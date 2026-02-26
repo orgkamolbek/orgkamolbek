@@ -2,14 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:8A2BE2,100:000000&text=Welcome%20to%20my%20profile!&fontSize=50&fontColor=39FF14&animation=twinkling&fontAlignY=38"/>
 </p>
 
-<!-- CYBER BACKGROUND -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Welcome%20to%20my%20profile!&fontSize=45&fontColor=39FF14&animation=fadeIn&fontAlignY=40&desc=Ro'zmamatov%20Kamolbek%20⚡%20Frontend%20Architect&descAlignY=60&descAlign=50"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8A2BE2,100:39FF14&text=Welcome%20to%20my%20profile!&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
-</p>
 
 <h1 align="center" style="color:#39FF14; text-shadow: 0 0 8px #39FF14, 0 0 20px #39FF14;">
   👾 Ro'zmamatov Kamolbek 👾
