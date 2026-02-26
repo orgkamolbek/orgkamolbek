@@ -1,12 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:8A2BE2,100:000000&text=Welcome%20to%20my%20profile!&fontSize=50&fontColor=39FF14&animation=twinkling&fontAlignY=38"/>
 </p>
-
-<h1 align="center" style="margin-top:-180px; color:#39FF14; text-shadow:0 0 15px #39FF14;">
-  Welcome to my profile!
-</h1>
-
-<br/><br/><br/><br/><br/><br/><br/>
 
 <!-- CYBER BACKGROUND -->
 <p align="center">
