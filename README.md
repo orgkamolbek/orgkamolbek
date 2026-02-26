@@ -20,3 +20,17 @@
 
 ![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
 ![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
+
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+I build scalable, high-performance web applications with clean architecture and pixel-perfect UI.
+Focused on writing maintainable code, optimizing performance, and crafting seamless user experiences.
+</p>
+
+<p align="center">
+💡 Passionate about System Design <br/>
+⚙️ Performance Optimization Enthusiast <br/>
+🧠 Clean Code Advocate <br/>
+🔥 Always building. Always learning.
+</p>
