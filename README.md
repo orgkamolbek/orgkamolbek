@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="100%"/>
+</p>
+
+<h1 align="center" style="margin-top:-180px; color:#39FF14; text-shadow:0 0 15px #39FF14;">
+  Welcome to my profile!
+</h1>
+
+<br/><br/><br/><br/><br/><br/><br/>
+
 <!-- CYBER BACKGROUND -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Welcome%20to%20my%20profile!&fontSize=45&fontColor=39FF14&animation=fadeIn&fontAlignY=40&desc=Ro'zmamatov%20Kamolbek%20⚡%20Frontend%20Architect&descAlignY=60&descAlign=50"/>
