@@ -32,11 +32,15 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,python,git,github,vscode&theme=dark" />
 </p>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true&background=00000000" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=visual_studio_code&hide_border=true&title_color=9f7aea&icon_color=9f7aea" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzmamatov99&layout=compact&theme=visual_studio_code&hide_border=true&title_color=9f7aea&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=visual_studio_code&hide_border=true&stroke=9f7aea&ring=9f7aea&fire=9f7aea" />
 </p>
 
 <p align="center">
