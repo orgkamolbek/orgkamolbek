@@ -34,17 +34,19 @@
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## 📊 GitHub Performance
 
-<img src="https://github-readme-stats.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=ffffff" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzmamatov99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=ffffff" alt="Top Languages" />
+![](https://img.shields.io/badge/Total%20Contributions-78-9f7aea?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Current%20Streak-0-orange?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Longest%20Streak-1-green?style=for-the-badge&logo=github&logoColor=white)
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true&background=0d1117&ring=9f7aea&fire=9f7aea&currStreakLabel=9f7aea" alt="GitHub Streak" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=ffffff" alt="Kamolbek Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ruzmamatov99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=ffffff" alt="Top Languages" />
 
 </div>
 
