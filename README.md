@@ -32,18 +32,21 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,python,git,github,vscode&theme=dark" />
 </p>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<div align="center">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=dark&hide_border=true&title_color=9f7aea&icon_color=9f7aea&text_color=ffffff&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzmamatov99&layout=compact&theme=dark&hide_border=true&title_color=9f7aea&text_color=ffffff&bg_color=0d1117&langs_count=8" />
-</p>
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=dark&hide_border=true&stroke=9f7aea&ring=9f7aea&fire=9f7aea&background=0d1117" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=ffffff" alt="GitHub Stats" />
 
 <br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzmamatov99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=ffffff" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true&background=0d1117&ring=9f7aea&fire=9f7aea&currStreakLabel=9f7aea" alt="GitHub Streak" />
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
