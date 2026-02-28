@@ -3,9 +3,6 @@
 </p>
 
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true&background=0d1117&ring=9f7aea&fire=9f7aea&currStreakLabel=9f7aea" width="100%" />
-
 <h1 align="center" style="color:#39FF14; text-shadow: 0 0 8px #39FF14, 0 0 20px #39FF14;">
   👾 Ro'zmamatov Kamolbek 👾
 </h1>
@@ -52,6 +49,8 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ruzmamatov99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=ffffff" alt="Top Languages" />
 
 </div>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true&background=0d1117&ring=9f7aea&fire=9f7aea&currStreakLabel=9f7aea" width="100%" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
