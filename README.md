@@ -44,7 +44,7 @@
 </p>
 
 
-
+![GitHub 3D Contrib](https://github-profile-3d-contrib.vercel.app/api?username=ruzmamatov99&theme=dark)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
