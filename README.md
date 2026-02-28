@@ -50,7 +50,11 @@
 
 </div>
 
+<div align="center">
+  
+## 📊 GitHub Analytics
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true&background=0d1117&ring=9f7aea&fire=9f7aea&currStreakLabel=9f7aea" width="100%" />
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
