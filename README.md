@@ -32,19 +32,18 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,python,git,github,vscode&theme=dark" />
 </p>
 
-### 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=visual_studio_code&hide_border=true&title_color=9f7aea&icon_color=9f7aea" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzmamatov99&layout=compact&theme=visual_studio_code&hide_border=true&title_color=9f7aea&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=dark&hide_border=true&title_color=9f7aea&icon_color=9f7aea&text_color=ffffff&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzmamatov99&layout=compact&theme=dark&hide_border=true&title_color=9f7aea&text_color=ffffff&bg_color=0d1117&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=visual_studio_code&hide_border=true&stroke=9f7aea&ring=9f7aea&fire=9f7aea" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=dark&hide_border=true&stroke=9f7aea&ring=9f7aea&fire=9f7aea&background=0d1117" />
 </p>
 
-
-![GitHub 3D Contrib](https://github-profile-3d-contrib.vercel.app/api?username=ruzmamatov99&theme=dark)
+<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
