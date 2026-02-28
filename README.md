@@ -2,12 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:8A2BE2,100:000000&text=Welcome%20to%20my%20profile!&fontSize=50&fontColor=39FF14&animation=twinkling&fontAlignY=38"/>
 </p>
 
-<br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=ffffff&icon_color=9f7aea" width="48%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ruzmamatov99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=ffffff&langs_count=8" width="48%" />
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true&background=0d1117&ring=9f7aea&fire=9f7aea&currStreakLabel=9f7aea" width="100%" />
 
