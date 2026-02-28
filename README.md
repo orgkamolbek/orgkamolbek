@@ -43,9 +43,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=visual_studio_code&hide_border=true&stroke=9f7aea&ring=9f7aea&fire=9f7aea" />
 </p>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzmamatov99&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
+
 
 
 <p align="center">
