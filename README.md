@@ -138,54 +138,45 @@
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=gradient&height=200&section=header&text=KAMOLBEK%20DEV%20HUB&fontSize=60&animation=fadeIn&fontColor=ffffff" width="100%" />
+# <p align="center"><img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=KAMOLBEK%20DEV&fontSize=50&animation=fadeIn" width="100%" /></p>
+
+## 👤 Men haqimda
+<p align="left">
+  👋 Salom! Men <b>Kamolbek</b>, Fullstack dasturchiman. 
+  Men murakkab muammolarga oddiy va chiroyli yechimlar topishni yaxshi ko'raman.
 </p>
 
-<table align="center" style="width:100%; border-collapse: separate; border-spacing: 10px;">
-  <tr>
-    <td style="width: 40%; vertical-align: top; padding: 10px; border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117;">
-      <h3 align="center" style="color:#79ffad;">👋 Salom, Men Kamolbek!</h3>
-      <p style="color:#ffffff; text-align: center;">
-        Men Fullstack Developer sifatida web ilovalar yarataman. 
-        Python (Django/Flask) va JavaScript (React/Next.js) bilan ishlayman. 
-        Mening asosiy maqsadim — samarali va foydalanuvchilar uchun qulay yechimlar yaratish.
-      </p>
-      <hr style="border-top: 1px solid #30363d;">
-      <h4 align="center" style="color:#79ffad;">Meni toping:</h4>
-      <p align="center">
-        <a href="https://t.me/your_telegram_username" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-        <a href="https://linkedin.com/in/your_linkedin_username" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-      </p>
-    </td>
+---
 
-    <td style="width: 60%; vertical-align: top; padding: 10px; border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117;">
-      <h3 align="center" style="color:#79ffad;">🚀 Mening GitHub Statistikalarim</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79ffad&icon_color=bb9af7" width="49%" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzmamatov99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79ffad" width="49%" />
-      </p>
-      <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true&stroke=79ffad&background=0D1117" width="100%" />
-      </p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td colspan="2" style="padding: 10px; border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117;">
-      <h3 align="center" style="color:#79ffad;">🛠️ Mening Texnologiyalarim</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,py,django,flask,go,docker,kubernetes,aws,git,github,vscode,figma,ps,ai&perline=10" />
-      </p>
-    </td>
-  </tr>
+## 🚀 GitHub Statistikalarim
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzmamatov99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+</p>
 
-  <tr>
-    <td colspan="2" style="padding: 10px; border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117;">
-      <h3 align="center" style="color:#79ffad;">📊 Faollik Grafigi</h3>
-      <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruzmamatov99&bg_color=0D1117&color=79ffad&line=79ffad&point=FFFFFF&area=true&hide_border=true" width="100%" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
+</p>
+
+---
+
+## 🛠️ Texnologiyalarim (Tech Stack)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,py,django,docker,aws,git,github,vscode,figma&perline=8" />
+</p>
+
+---
+
+## 📈 Faollik Grafigi
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruzmamatov99&bg_color=0D1117&color=79ffad&line=79ffad&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 📱 Aloqa uchun
+<p align="center">
+  <a href="https://t.me/your_telegram_link"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your_linkedin_link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ruzmamatov99&label=PROFILE+VIEWS&color=39d353&style=for-the-badge" />
+</p>
