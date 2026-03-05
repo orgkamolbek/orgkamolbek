@@ -6,7 +6,7 @@
 <h1 align="center" style="color:#39FF14; text-shadow: 0 0 8px #39FF14, 0 0 20px #39FF14;">
   👾 Ro'zmamatov Kamolbek 👾
 </h1>
- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
+ 
 <h3 align="center" style="color:#8A2BE2; text-shadow: 0 0 5px #8A2BE2, 0 0 10px #8A2BE2;">
   ⚡ Middle Frontend Developer | Code Gamer | UI Architect
 </h3>
@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Instagram-@ruzmamatov.99-FF00FF?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-
+ <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
 ![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
 ![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
 
