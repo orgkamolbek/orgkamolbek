@@ -65,3 +65,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true" width="70%" />
 </p>
+
+
+<!-- FOOTER WAVE -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=#4B0082&height=180&section=footer&text=Thank%20you%20for%20visiting!&fontSize=55&fontColor=ffffff&animation=wave)
