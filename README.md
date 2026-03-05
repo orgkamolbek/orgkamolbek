@@ -68,7 +68,7 @@
 
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=35" width="100%" />
-</p>
+<div align="center">
+  <h3>🚀 Developer with ❤️ by Kamolbek</h3>
+  <p><i>"The best way to predict the future is to invent it."</i></p>
+</div>
