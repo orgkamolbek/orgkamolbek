@@ -141,21 +141,3 @@
 
 
 
-<div align="center">
-
-<br/>
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-
-<br/>
-<br/>
-
-<img src="https://capsule-render.vercel.app/render?type=waving&color=702283&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=ffffff&fontAlignY=60&animation=fadeIn" width="100%" />
-
-<br/>
-
-### 🛡️ Secure Profile Maintenance
-*Status: Protected against multiple edits*
-
-</div>
