@@ -105,27 +105,7 @@
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Kamolbek%20R.&fontSize=70&animation=fadeIn&fontAlignY=40" width="100%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true&stroke=bf91f3&background=0D1117" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=bf91f3&icon_color=79ffad" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzmamatov99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=bf91f3" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,nodejs,py,mongodb,git,vscode&theme=dark" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruzmamatov99&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruzmamatov99&theme=tokyonight" width="49%" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=outline&color=bf91f3&height=80&section=footer&text=Code%20.%20Build%20.%20Repeat&fontSize=20" width="100%" />
