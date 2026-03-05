@@ -67,5 +67,8 @@
 </p>
 
 
-<!-- FOOTER WAVE -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=#4B0082&height=180&section=footer&text=Thank%20you%20for%20visiting!&fontSize=55&fontColor=ffffff&animation=wave)
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=wave&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=40&animation=slide" width="100%" />
+</p>
