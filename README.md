@@ -135,3 +135,86 @@
 
 
 
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3000&color=39FF14&center=true&vCenter=true&width=800&lines=KAMOLBEK+DEV+HUB" />
+</h1>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 👋 Salom, Men Kamolbek!
+
+Men **Frontend Developer**man.  
+Zamonaviy web texnologiyalar yordamida tezkor va chiroyli web ilovalar yarataman.
+
+🚀 Doim yangi texnologiyalarni o‘rganaman  
+💻 Clean code va UI dizaynni yaxshi ko‘raman  
+
+<br>
+
+<a href="https://t.me/rkamolbekk99">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/k-ruzmamatov/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 📊 Mening GitHub Statistikalarim
+
+<img src="https://github-readme-stats.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=chartreuse-dark"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=chartreuse-dark"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🛠 Mening Texnologiyalarim
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,bootstrap,tailwind,figma,vscode,mongodb,mysql,linux,docker" />
+
+</p>
+
+---
+
+# 📊 Top Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzmamatov99&layout=compact&theme=chartreuse-dark"/>
+
+</p>
+
+---
+
+# 📈 Faollik Grafigi
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ruzmamatov99&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Agar mening loyihalarim sizga yoqsa repositorylarga **Star** bosishni unutmang!
+
+</p>
