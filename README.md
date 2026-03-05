@@ -165,10 +165,4 @@
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=200&section=header&text=TECH%20STACK%202026&fontSize=50&animation=fadeIn&fontColor=79ffad" width="100%" />
-</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,mongodb,docker,aws,git,mysql,nginx,ps,ai&theme=dark" />
-</div>
