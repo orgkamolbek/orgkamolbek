@@ -58,10 +58,10 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruzmamatov99&theme=tokyonight" width="52%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruzmamatov99&theme=tokyonight" width="70%" />
 </p
 >
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true" width="52%" />
-</p>>
+</p>
