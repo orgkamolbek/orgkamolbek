@@ -74,7 +74,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruzmamatov99&bg_color=0D1117&color=39d353&line=39d353&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruzmamatov99&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
 
 <p align="center">
@@ -136,45 +136,4 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ruzmamatov99&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruzmamatov99&theme=tokyonight&utc_offset=5" width="45%" />
-</p>
 
-
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzmamatov99&layout=donut-vertical&theme=tokyonight&hide_border=true" width="300" />
-</p>
-
-
-
-
-
-
-
-
-<p align="center">
-<a href="https://t.me/your_username" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://linkedin.com/in/your_username" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/your_username" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruzmamatov99&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
