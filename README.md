@@ -138,3 +138,28 @@
 
 
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ruzmamatov99&theme=tokyonight&no-bg=true&column=7" width="100%" />
+</p>
+
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
+</p>
+
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&color=39D353&center=true&vCenter=true&width=800&lines=KAMOLBEK+RO'ZMAMATOV;FULLSTACK+DEVELOPER;TECH+ENTHUSIAST" />
+</p>
