@@ -136,4 +136,18 @@
 
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ruzmamatov99&label=PROFILE+VIEWS&color=39d353&style=flat-square" alt="Visitor Counter" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
 
