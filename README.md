@@ -107,6 +107,5 @@
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=outline&color=bf91f3&height=80&section=footer&text=Code%20.%20Build%20.%20Repeat&fontSize=20" width="100%" />
-</p>
+<img width="1011" height="136" alt="image" src="https://github.com/user-attachments/assets/fad24ce2-4040-47bd-9cb9-24fd9ef3df1b" />
+
