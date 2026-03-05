@@ -92,10 +92,6 @@
 </p>
 
 
-
-
-
-
 ---
 
 <div align="center">
@@ -135,9 +131,7 @@
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=200&section=header&text=DECODING%20REALITY&fontSize=60&animation=twinkling&fontColor=39d353" width="100%" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruzmamatov99&bg_color=0D1117&color=39d353&line=39d353&point=FFFFFF&area=true&hide_border=true" width="100%" />
@@ -149,54 +143,3 @@
 </p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=KAMOLBEK.DEV&fontSize=50&animation=fadeIn" width="100%" />
-</p>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,py,nodejs,mongodb,docker,aws,git&theme=dark" />
-</div>
-
-<br />
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&stroke=FFFFFF" width="100%" />
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=slice&color=gradient&height=200&section=header&text=CREATIVE%20ENGINEER&fontSize=50&animation=scaleIn&fontColor=ffffff" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=Building+Scalable+Apps;Solving+Complex+Logic;Python+%26+JavaScript+Expert" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=radical&hide_border=true" width="100%" />
-</p>
