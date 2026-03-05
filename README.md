@@ -139,7 +139,8 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ruzmamatov99&theme=tokyonight&no-bg=true&column=7" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruzmamatov99&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruzmamatov99&theme=tokyonight" width="45%" />
 </p>
 
 
@@ -149,17 +150,28 @@
 
 
 
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>Backend</b></td>
+    <td align="center"><b>DevOps</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,py,mongodb,mysql" /></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,aws,git,linux" /></td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
-</p>
-
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&color=39D353&center=true&vCenter=true&width=800&lines=KAMOLBEK+RO'ZMAMATOV;FULLSTACK+DEVELOPER;TECH+ENTHUSIAST" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=0d1117&height=100&section=header&text=SEARCHING%20FOR%20BUGS...&fontSize=30&fontColor=39d353&animation=twinkling" width="100%" />
 </p>
