@@ -67,9 +67,8 @@
 
 
 
-
-## 📊 My GitHub Journey
 <p align="center">
+## 📊 My GitHub Journey
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
