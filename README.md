@@ -54,17 +54,13 @@
 
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true&background=0d1117&ring=9f7aea&fire=9f7aea&currStreakLabel=9f7aea" width="50%" />
 
 </div>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruzmamatov99&theme=tokyonight" width="52%" />
 </p
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/stats.svg?username=ruzmamatov99&theme=tokyonight&show_icons=true&hide_border=true" width="100%" />
-</p>
+>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true" width="52%" />
