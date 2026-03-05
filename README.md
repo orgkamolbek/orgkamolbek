@@ -138,40 +138,4 @@
 
 
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruzmamatov99&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruzmamatov99&theme=tokyonight" width="45%" />
-</p>
 
-
-
-
-
-
-
-
-
-<table align="center">
-  <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td align="center"><b>Backend</b></td>
-    <td align="center"><b>DevOps</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts" /></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,py,mongodb,mysql" /></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,aws,git,linux" /></td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=0d1117&height=100&section=header&text=SEARCHING%20FOR%20BUGS...&fontSize=30&fontColor=39d353&animation=twinkling" width="100%" />
-</p>
