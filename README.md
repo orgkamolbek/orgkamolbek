@@ -96,3 +96,54 @@
 
 
 <img width="1011" height="136" alt="image" src="https://github.com/user-attachments/assets/fad24ce2-4040-47bd-9cb9-24fd9ef3df1b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+  <svg width="600" height="150" viewBox="0 0 600 150" xmlns="http://www.w3.org/2000/svg">
+    <rect width="600" height="150" fill="#0d1117"/>
+    <defs>
+      <filter id="glitch">
+        <feOffset dx="3" dy="0" in="SourceGraphic" result="offset1" />
+        <feFlood flood-color="#ff00c1" result="color1" />
+        <feComposite in="color1" in2="offset1" operator="in" result="shadow1" />
+        <feOffset dx="-3" dy="0" in="SourceGraphic" result="offset2" />
+        <feFlood flood-color="#00fff9" result="color2" />
+        <feComposite in="color2" in2="offset2" operator="in" result="shadow2" />
+        <feMerge>
+          <feMergeNode in="shadow1" />
+          <feMergeNode in="shadow2" />
+          <feMergeNode in="SourceGraphic" />
+        </feMerge>
+      </filter>
+    </defs>
+    <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="60" font-weight="bold" fill="#79ffad" filter="url(#glitch)">
+      KAMOLBEK
+    </text>
+    <path d="M100 100 L500 100" stroke="#79ffad" stroke-width="2" stroke-dasharray="10 5" opacity="0.5" />
+  </svg>
+</p>
