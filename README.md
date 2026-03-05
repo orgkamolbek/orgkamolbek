@@ -166,3 +166,31 @@
 
 
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css,sass,bootstrap,npm,yarn,pnpm,vite,webpack,babel&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,py,django,flask,fastapi,go,java,spring,php,laravel,ruby,rails,rust&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Main-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker,kubernetes,jenkins,aws,gcp,azure,firebase,vercel,netlify,heroku,linux,ubuntu,apple,windows,android,figma,ps,ai,pr,ae&perline=12" />
+</p>
+
+<p align="center">
+  <marquee behavior="alternate" scrollamount="2">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,mongodb,kafka,rabbitmq,nginx,apache,tensorflow,pytorch,opencv" />
+  </marquee>
+</p>
