@@ -109,3 +109,92 @@
 <img width="1011" height="136" alt="image" src="https://github.com/user-attachments/assets/fad24ce2-4040-47bd-9cb9-24fd9ef3df1b" />
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=shining&color=auto&height=200&section=header&text=KAMOLBEK%20SPACE&fontSize=70&animation=twinkling" width="100%" />
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZpZ3R4bmR4bmR4bmR4bmR4bmR4bmR4bmR4bmR4bmR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPqcKGRZaO3u/giphy.gif" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=transparent&title_color=a9fef7&icon_color=a9fef7&text_color=ffffff&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzmamatov99&layout=compact&theme=transparent&title_color=a9fef7&text_color=ffffff&hide_border=true" width="49%" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=venom&color=00ff41&height=200&section=header&text=CYBER%20PUNK&fontSize=80&animation=fadeIn" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=SYSTEM+OVERRIDE...;ACCESS+GRANTED;DEVELOPER+MODE+ON" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=neon&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,py,nodejs,mongodb,docker,git&theme=dark" width="100%" />
+</p>
+
+
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=slice&color=f39c12&height=150&section=header&text=PLAYER%20ONE%20READY&fontSize=40&animation=scaleIn" width="100%" />
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXByZ3R4bmR4bmR4bmR4bmR4bmR4bmR4bmR4bmR4bmR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/LMc7wS6zE9LUs/giphy.gif" width="100%" />
+</p>
+
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ruzmamatov99&theme=radical&hide_border=true" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzmamatov99&theme=radical&hide_border=true" /></td>
+  </tr>
+</table>
