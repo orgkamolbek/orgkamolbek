@@ -64,12 +64,11 @@
 
 
 
-
+<div align="center">
 ## 📊 My GitHub Journey
-
+</div>
 
 <p align="center">
-  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruzmamatov99&theme=tokyonight" width="52%" />
 </p>
 
