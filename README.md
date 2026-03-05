@@ -148,12 +148,18 @@
         Fullstack dasturchiman. Murakkab muammolarga kreativ va samarali yechimlar yaratishni yaxshi ko'raman.
       </p>
       <br>
-      <a href="https://t.me/ruzmamatov99"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+      <div align="center">
+        <a href="https://t.me/ruzmamatov99"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+        <a href="https://linkedin.com/in/ruzmamatov99"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+      </div>
     </td>
     <td width="60%" style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; padding: 15px;">
-      <h3 align="center" style="color: #39d353;">📈 GitHub Statistika</h3>
+      <h3 align="center" style="color: #39d353;">📈 Mening GitHub Statistikalarim</h3>
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
+      </p>
+      <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true&background=0d1117" width="100%" />
       </p>
     </td>
   </tr>
@@ -166,7 +172,7 @@
     <td style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; padding: 20px;">
       <h3 align="center" style="color: #39d353;">🛠️ Mening Texnologiyalarim</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,py,django,docker,aws,git,github,vscode,figma&perline=8" />
+        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css,sass,bootstrap,nodejs,express,mongodb,py,django,flask,fastapi,go,docker,kubernetes,aws,git,github,vscode,figma,ps,ai,linux&perline=14" />
       </p>
     </td>
   </tr>
