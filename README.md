@@ -135,8 +135,17 @@
 
 
 
-<h1 align="center" style="color:#39FF14;font-size:40px;">
+
+
+
+
+
+
+
+<h1 align="center">
+<span style="color:#39FF14;text-shadow:0 0 10px #39FF14,0 0 20px #39FF14,0 0 40px #39FF14;font-size:45px;">
 KAMOLBEK DEV HUB
+</span>
 </h1>
 
 ---
@@ -172,7 +181,7 @@ Zamonaviy web texnologiyalar yordamida tezkor va chiroyli web ilovalar yarataman
 
 <img src="https://github-readme-stats.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
 
-<img src="https://streak-stats.demolab.com?user=ruzmamatov99&theme=chartreuse-dark&hide_border=true&background=0d1117"/>
+<img src="https://streak-stats.demolab.com?user=ruzmamatov99&theme=chartreuse-dark&hide_border=true"/>
 
 </td>
 
@@ -208,4 +217,3 @@ Zamonaviy web texnologiyalar yordamida tezkor va chiroyli web ilovalar yarataman
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruzmamatov99&bg_color=0d1117&color=39FF14&line=39FF14&point=39FF14&area=true&hide_border=true"/>
 
 </p>
-
