@@ -67,8 +67,29 @@
 </p>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ---
+
 <div align="center">
-  <h3>🚀 Developer with ❤️ by Kamolbek</h3>
-  <p><i>"The best way to predict the future is to invent it."</i></p>
+  <br />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
+  <br />
+  <h2 align="center">✨ Thanks for visiting my digital space! ✨</h2>
+  <p align="center">
+    <a href="https://t.me/rkamolbekk99"><b>Telegram</b></a> • 
+    <a href="https://k-ruzmamatov.netlify.app/"><b>Portfolio</b></a> • 
+    <a href="https://instagram.com/ruzmamatov.99"><b>Instagram</b></a>
+  </p>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
 </div>
