@@ -39,9 +39,14 @@
 
 ## 📊 GitHub Performance
 
-![](https://img.shields.io/badge/Total%20Contributions-78-9f7aea?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Current%20Streak-0-orange?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Longest%20Streak-1-green?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20Visiting&fontSize=35&animation=fadeIn" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79ffad&icon_color=79ffad" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzmamatov99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79ffad" width="48%" />
+</p>
 
 <br/>
 
