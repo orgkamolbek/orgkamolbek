@@ -122,28 +122,15 @@
 
 
 
-
 <p align="center">
-  <svg width="600" height="150" viewBox="0 0 600 150" xmlns="http://www.w3.org/2000/svg">
-    <rect width="600" height="150" fill="#0d1117"/>
-    <defs>
-      <filter id="glitch">
-        <feOffset dx="3" dy="0" in="SourceGraphic" result="offset1" />
-        <feFlood flood-color="#ff00c1" result="color1" />
-        <feComposite in="color1" in2="offset1" operator="in" result="shadow1" />
-        <feOffset dx="-3" dy="0" in="SourceGraphic" result="offset2" />
-        <feFlood flood-color="#00fff9" result="color2" />
-        <feComposite in="color2" in2="offset2" operator="in" result="shadow2" />
-        <feMerge>
-          <feMergeNode in="shadow1" />
-          <feMergeNode in="shadow2" />
-          <feMergeNode in="SourceGraphic" />
-        </feMerge>
-      </filter>
-    </defs>
-    <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="60" font-weight="bold" fill="#79ffad" filter="url(#glitch)">
-      KAMOLBEK
-    </text>
-    <path d="M100 100 L500 100" stroke="#79ffad" stroke-width="2" stroke-dasharray="10 5" opacity="0.5" />
+  <svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="800" height="200" fill="#0d1117"/>
+    <path d="M50 100H150M150 100L180 70M150 100L180 130M180 70H250M180 130H300M300 130L330 100H450M450 100L480 130H600M480 130L510 160M600 130L630 100H750" stroke="#39d353" stroke-width="2" stroke-dasharray="5 5">
+      <animate attributeName="stroke-dashoffset" from="100" to="0" dur="5s" repeatCount="indefinite" />
+    </path>
+    <circle cx="150" cy="100" r="4" fill="#39d353" />
+    <circle cx="330" cy="100" r="4" fill="#39d353" />
+    <circle cx="480" cy="130" r="4" fill="#79ffad" />
+    <text x="50%" y="50" dominant-baseline="middle" text-anchor="middle" fill="#79ffad" font-family="monospace" font-size="20" font-weight="bold">SYSTEM ARCHITECTURE ACTIVE</text>
   </svg>
 </p>
