@@ -135,3 +135,40 @@
 
 
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,py,go,git,github,vscode,docker,kubernetes,aws,pnpm,mysql,postgres,jenkins,kafka,nginx,swift,apple,ps,ai&perline=14" width="100%" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+  <marquee behavior="alternate" scrollamount="3">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,express,mongodb,docker,kubernetes,aws,git,github" />
+  </marquee>
+  <marquee behavior="alternate" direction="right" scrollamount="3">
+    <img src="https://skillicons.dev/icons?i=go,swift,mysql,postgres,nginx,kafka,jenkins,html,css,tailwind,pnpm,ps,ai" />
+  </marquee>
+</p>
+
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=200&section=header&text=TECH%20STACK%202026&fontSize=50&animation=fadeIn&fontColor=79ffad" width="100%" />
+</p>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,mongodb,docker,aws,git,mysql,nginx,ps,ai&theme=dark" />
+</div>
