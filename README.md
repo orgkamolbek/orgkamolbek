@@ -139,3 +139,76 @@
 
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=shining&color=0d1117&height=200&section=header&text=KAMOLBEK%20COMMAND%20CENTER&fontSize=50&animation=twinkling&fontColor=79ffad" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ruzmamatov99/ruzmamatov99/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79ffad&icon_color=bb9af7" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzmamatov99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79ffad" width="49%" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=ROOT_ACCESS:_GRANTED;EXECUTE:_KAMOLBEK.SH;STATUS:_OPTIMIZING_WORLD" />
+</p>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,go,rust,c,cpp,cs,swift,kotlin,dart,ts&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,aws,nginx,git,github,vscode,vim&theme=dark" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true&stroke=39D353&background=0D1117" width="100%" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://capsule-render.vercel.app/render?type=rect&color=0d1117&height=100&section=header&text=Welcome%20to%20my%20Dev%20Bento&fontSize=30&fontColor=ffffff" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzmamatov99&layout=compact&theme=dark&hide_border=true" />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruzmamatov99&theme=github_dark" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p align="center"><b>Current Tech Stack:</b></p>
+      <p align="center"><img src="https://skillicons.dev/icons?i=react,next,tailwind,nodejs,mongodb,py,docker&perline=7" /></p>
+    </td>
+  </tr>
+</table>
