@@ -138,45 +138,46 @@
 
 
 
-# <p align="center"><img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=KAMOLBEK%20DEV&fontSize=50&animation=fadeIn" width="100%" /></p>
-
-## 👤 Men haqimda
-<p align="left">
-  👋 Salom! Men <b>Kamolbek</b>, Fullstack dasturchiman. 
-  Men murakkab muammolarga oddiy va chiroyli yechimlar topishni yaxshi ko'raman.
-</p>
-
----
-
-## 🚀 GitHub Statistikalarim
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzmamatov99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-</p>
+  <svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="800" height="1000" rx="20" fill="#0d1117"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
-</p>
+    <g transform="translate(150, 50)">
+      <rect width="500" height="80" rx="40" fill="#161b22" stroke="#39d353" stroke-width="2"/>
+      <text x="250" y="52" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="32" font-weight="bold">KAMOLBEK DEV HUB</text>
+      <defs>
+        <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+          <feGaussianBlur stdDeviation="5" result="blur" />
+          <feComposite in="SourceGraphic" in2="blur" operator="over" />
+        </filter>
+      </defs>
+    </g>
 
----
+    <rect x="50" y="180" width="340" height="220" rx="15" fill="#161b22" stroke="#30363d"/>
+    <text x="75" y="220" fill="#39d353" font-family="Arial" font-size="20" font-weight="bold">🟢 Salom, Men Kamolbek!</text>
+    <foreignObject x="75" y="240" width="290" height="100">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="color: #8b949e; font-family: Arial; font-size: 14px; line-height: 1.5;">
+        Fullstack dasturchiman. Murakkab muammolarga kreativ yechimlar yaratishni yaxshi ko'raman.
+      </div>
+    </foreignObject>
+    <rect x="75" y="340" width="120" height="40" rx="8" fill="#2ca5e0"/>
+    <text x="135" y="365" text-anchor="middle" fill="white" font-family="Arial" font-size="14">Telegram</text>
 
-## 🛠️ Texnologiyalarim (Tech Stack)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,py,django,docker,aws,git,github,vscode,figma&perline=8" />
-</p>
+    <rect x="410" y="180" width="340" height="220" rx="15" fill="#161b22" stroke="#30363d"/>
+    <text x="435" y="220" fill="#39d353" font-family="Arial" font-size="18" font-weight="bold">📈 GitHub Statistika</text>
+    <image href="https://github-readme-stats.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" x="420" y="230" width="320" height="150" />
 
----
+    <rect x="50" y="420" width="700" height="200" rx="15" fill="#161b22" stroke="#30363d"/>
+    <text x="75" y="460" fill="#39d353" font-family="Arial" font-size="20" font-weight="bold">🛠️ Mening Texnologiyalarim</text>
+    <image href="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,nodejs,mongodb,py,django,docker,aws,git&perline=6" x="75" y="480" width="650" height="120" />
 
-## 📈 Faollik Grafigi
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruzmamatov99&bg_color=0D1117&color=79ffad&line=79ffad&area=true&hide_border=true" width="100%" />
-</p>
+    <rect x="50" y="640" width="700" height="300" rx="15" fill="#161b22" stroke="#30363d"/>
+    <text x="75" y="680" fill="#39d353" font-family="Arial" font-size="20" font-weight="bold">📊 Faollik Grafigi</text>
+    <image href="https://github-readme-activity-graph.vercel.app/graph?username=ruzmamatov99&bg_color=161b22&color=39d353&line=39d353&area=true&hide_border=true" x="65" y="700" width="670" height="220" />
 
----
-
-## 📱 Aloqa uchun
-<p align="center">
-  <a href="https://t.me/your_telegram_link"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your_linkedin_link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ruzmamatov99&label=PROFILE+VIEWS&color=39d353&style=for-the-badge" />
+    <g transform="translate(250, 950)">
+      <rect width="300" height="40" rx="20" fill="#0d1117" stroke="#bb9af7" stroke-width="1.5"/>
+      <text x="150" y="25" text-anchor="middle" fill="#bb9af7" font-family="monospace" font-size="16">Code . Build . Repeat</text>
+    </g>
+  </svg>
 </p>
