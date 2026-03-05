@@ -138,13 +138,9 @@
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=KAMOLBEK%20DEV%20HUB&fontSize=50&animation=fadeIn" width="100%" />
-</p>
+# <p align="center"><img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=KAMOLBEK%20DEV%20HUB&fontSize=50&animation=fadeIn" width="100%" /></p>
 
----
-
-<table align="center" style="width: 100%; border-spacing: 10px;">
+<table align="center" style="border-collapse: collapse; width: 100%;">
   <tr>
     <td width="40%" style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; padding: 20px; vertical-align: top;">
       <h3 style="color: #39d353;">👋 Salom, Men Kamolbek!</h3>
@@ -176,7 +172,7 @@
     <td style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; padding: 25px;">
       <h3 align="center" style="color: #39d353;">🛠️ Mening Texnologiyalarim</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css,sass,bootstrap,nodejs,express,mongodb,py,django,flask,fastapi,go,docker,kubernetes,aws,git,github,vscode,figma,ps,ai,linux,ubuntu&perline=14" />
+        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css,sass,bootstrap,nodejs,express,mongodb,py,django,flask,fastapi,go,docker,kubernetes,aws,git,github,vscode,figma,ps,ai,linux,ubuntu,postman,mysql,postgres,php,laravel,ruby,rust&perline=14" />
       </p>
     </td>
   </tr>
@@ -189,7 +185,7 @@
     <td style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; padding: 20px;">
       <h3 align="center" style="color: #39d353;">📊 Faollik Grafigi</h3>
       <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruzmamatov99&bg_color=0d1117&color=39d353&line=39d353&area=true&hide_border=true" width="100%" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruzmamatov99&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&hide_border=true" width="100%" />
       </p>
     </td>
   </tr>
