@@ -83,7 +83,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 
@@ -109,43 +109,3 @@
 <img width="1011" height="136" alt="image" src="https://github.com/user-attachments/assets/fad24ce2-4040-47bd-9cb9-24fd9ef3df1b" />
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruzmamatov99&theme=tokyonight" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruzmamatov99&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruzmamatov99&theme=tokyonight" width="49%" />
-</p>
