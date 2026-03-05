@@ -6,6 +6,12 @@
 <h1 align="center" style="color:#39FF14; text-shadow: 0 0 8px #39FF14, 0 0 20px #39FF14;">
   👾 Ro'zmamatov Kamolbek 👾
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=INITIALIZING+SYSTEM...;LOADING+FRONTEND+CORE...;STATUS:+READY+TO+BUILD" alt="Typing SVG" />
+</p>
+
+
 <pre align="center">
  ██╗  ██╗ █████╗ ███╗   ███╗ ██████╗ ██╗     ██████╗ ███████╗██╗  ██╗
  ██║ ██╔╝██╔══██╗████╗ ████║██╔═══██╗██║     ██╔══██╗██╔════╝██║ ██╔╝
@@ -122,15 +128,11 @@
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=venom&color=auto&height=200&section=header&text=ARCHITECT&fontSize=80&animation=fadeIn" width="100%" />
-</p>
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=INITIALIZING+SYSTEM...;LOADING+FRONTEND+CORE...;STATUS:+READY+TO+BUILD" alt="Typing SVG" />
-</p>
+
+
 
 
 
