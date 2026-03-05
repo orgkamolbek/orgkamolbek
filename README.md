@@ -69,7 +69,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzmamatov99&layout=donut&theme=tokyonight&hide_border=true" width="45%" />
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruzmamatov99&theme=tokyonight" width="52%" />
 </p>
 
