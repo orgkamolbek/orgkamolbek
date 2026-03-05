@@ -83,7 +83,19 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=venom&color=00ff41&height=200&section=header&text=CYBER%20PUNK&fontSize=80&animation=fadeIn" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=SYSTEM+OVERRIDE...;ACCESS+GRANTED;DEVELOPER+MODE+ON" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=neon&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,py,nodejs,mongodb,docker,git&theme=dark" width="100%" />
 </p>
 
 
