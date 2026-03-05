@@ -94,9 +94,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=neon&hide_border=true" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,py,nodejs,mongodb,docker,git&theme=dark" width="100%" />
-</p>
+
 
 
 
