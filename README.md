@@ -138,17 +138,21 @@
 
 
 
-# <p align="center"><img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=KAMOLBEK%20DEV%20HUB&fontSize=50&animation=fadeIn" width="100%" /></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=KAMOLBEK%20DEV%20HUB&fontSize=50&animation=fadeIn" width="100%" />
+</p>
 
-<table align="center" style="border-collapse: collapse; width: 100%;">
+---
+
+<table align="center" style="width: 100%; border-spacing: 10px;">
   <tr>
-    <td width="40%" style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; padding: 15px; vertical-align: top;">
+    <td width="40%" style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; padding: 20px; vertical-align: top;">
       <h3 style="color: #39d353;">👋 Salom, Men Kamolbek!</h3>
-      <p style="color: #8b949e; font-size: 14px;">
+      <p style="color: #8b949e; font-size: 15px; line-height: 1.6;">
         Fullstack dasturchiman. Murakkab muammolarga kreativ va samarali yechimlar yaratishni yaxshi ko'raman.
       </p>
       <br>
-      <div align="center">
+      <div align="left">
         <a href="https://t.me/ruzmamatov99"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
         <a href="https://linkedin.com/in/ruzmamatov99"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
       </div>
@@ -169,10 +173,10 @@
 
 <table align="center" style="width: 100%;">
   <tr>
-    <td style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; padding: 20px;">
+    <td style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; padding: 25px;">
       <h3 align="center" style="color: #39d353;">🛠️ Mening Texnologiyalarim</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css,sass,bootstrap,nodejs,express,mongodb,py,django,flask,fastapi,go,docker,kubernetes,aws,git,github,vscode,figma,ps,ai,linux&perline=14" />
+        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css,sass,bootstrap,nodejs,express,mongodb,py,django,flask,fastapi,go,docker,kubernetes,aws,git,github,vscode,figma,ps,ai,linux,ubuntu&perline=14" />
       </p>
     </td>
   </tr>
@@ -194,5 +198,5 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=0d1117&height=40&section=footer&text=Code%20.%20Build%20.%20Repeat&fontSize=16&fontColor=bb9af7" width="300" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=0d1117&height=40&section=footer&text=Code%20.%20Build%20.%20Repeat&fontSize=16&fontColor=bb9af7" width="350" />
 </p>
