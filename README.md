@@ -63,5 +63,9 @@
 </p
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api/stats.svg?username=ruzmamatov99&theme=tokyonight&show_icons=true&hide_border=true" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true" width="100%" />
+</p>>
