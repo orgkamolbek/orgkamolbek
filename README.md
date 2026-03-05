@@ -39,18 +39,6 @@
 
 ## 📊 GitHub Performance
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true&stroke=79ffad&background=0D1117" width="100%" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=79ffad" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzmamatov99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=79ffad&height=100&section=footer&text=Keep%20Growing%20Every%20Day&fontSize=30&fontColor=0D1117" width="100%" />
-</p>
 
 
 <br/>
