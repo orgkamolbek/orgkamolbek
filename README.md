@@ -65,12 +65,8 @@
 
 
 
-
-
-<p align="center">
 ## 📊 My GitHub Journey
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzmamatov99&layout=donut&theme=tokyonight&hide_border=true" width="45%" />
