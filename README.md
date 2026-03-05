@@ -39,15 +39,6 @@
 
 ## 📊 GitHub Performance
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20Visiting&fontSize=35&animation=fadeIn" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79ffad&icon_color=79ffad" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzmamatov99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79ffad" width="48%" />
-</p>
-
 <br/>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=ffffff" alt="Kamolbek Stats" />
