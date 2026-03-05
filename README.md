@@ -58,18 +58,14 @@
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
-</p>
-
-
-
 <div align="center">
-## 📊 My GitHub Journey
+ 📊 My GitHub Journey
 </div>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruzmamatov99&theme=tokyonight" width="52%" />
+</p
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 </p>
-
-
