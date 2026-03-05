@@ -68,53 +68,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# <p align="center">✨ Welcome to Kamolbek's Digital Universe ✨</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Ro'zmamatov%20Kamolbek&fontSize=60&animation=fadeIn&fontAlignY=38" />
-</p>
-
-## 💫 About Me
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-
-- 🔭 **Current Focus:** Building scalable & reliable solutions.
-- 💻 **Expertise:** Middle Frontend Developer | UI Architect | Python Enthusiast.
-- 📍 **Location:** Xorazm, Uzbekistan.
-- ⚡ **Fun Fact:** I believe in writing code that makes a real-world impact.
-
----
-
-## 🛠 Tech Arsenal
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,py,git,github,vscode&perline=8" />
-  </a>
-</p>
-
----
-
 ## 📊 My GitHub Journey
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -125,16 +78,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruzmamatov99&theme=tokyonight" width="52%" />
 </p>
 
----
 
-## 📞 Connect with Me
-<p align="center">
-<a href="https://t.me/rkamolbekk99"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:kruzmamatov2010@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://k-ruzmamatov.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://instagram.com/ruzmamatov.99"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruzmamatov99&label=Profile%20Views&color=blue&style=flat-square" />
-</p>
