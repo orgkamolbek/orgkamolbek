@@ -137,61 +137,24 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=KAMOLBEK%20DEV%20HUB&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=0d1117&height=150&section=header&text=KAMOLBEK%20DEV%20HUB&fontSize=50&animation=fadeIn&fontColor=79ffad" width="100%" />
 </p>
 
----
-
-<table align="center" style="width: 100%; border-spacing: 10px;">
-  <tr>
-    <td width="42%" style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; padding: 20px; vertical-align: top;">
-      <h3 style="color: #39d353;">👋 Salom, Men Kamolbek!</h3>
-      <p style="color: #8b949e; font-size: 15px; line-height: 1.6;">
-        Fullstack dasturchiman. Murakkab muammolarga kreativ va samarali yechimlar yaratishni yaxshi ko'raman.
-      </p>
-      <br>
-      <div align="center">
-        <a href="https://t.me/ruzmamatov99"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-        <a href="https://linkedin.com/in/ruzmamatov99"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-      </div>
-    </td>
-    <td width="58%" style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; padding: 15px;">
-      <h3 align="center" style="color: #39d353;">📈 Mening GitHub Statistikalarim</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
-      </p>
-      <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true&background=0d1117" width="100%" />
-      </p>
-    </td>
-  </tr>
-</table>
+| 👋 Salom, Men Kamolbek! | 📈 Mening GitHub Statistikalarim |
+| :--- | :--- |
+| <br> Fullstack dasturchiman. Murakkab muammolarga kreativ va samarali yechimlar yaratishni yaxshi ko'raman. <br><br> [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ruzmamatov99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruzmamatov99) | <img src="https://github-readme-stats.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79ffad&text_color=9eb1ff" width="100%" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=tokyonight&hide_border=true&background=0d1117&sideNums=79ffad&currStreakNum=79ffad" width="100%" /> |
 
 <br>
 
-<table align="center" style="width: 100%;">
-  <tr>
-    <td style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; padding: 25px;">
-      <h3 align="center" style="color: #39d353;">🛠️ Mening Texnologiyalarim</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,html,css,sass,bootstrap,nodejs,express,mongodb,py,django,flask,fastapi,go,docker,kubernetes,aws,git,github,vscode,figma,ps,ai,linux,ubuntu,postman,mysql,postgres,php,laravel,ruby,rust&perline=14" />
-      </p>
-    </td>
-  </tr>
-</table>
+| 🛠️ Mening Texnologiyalarim |
+| :--- |
+| <p align="center"><img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,html,css,sass,bootstrap,nodejs,express,mongodb,py,django,flask,fastapi,go,docker,kubernetes,aws,git,github,vscode,figma,ps,ai,linux,ubuntu,postman,mysql,postgres,php,laravel,ruby,rust&perline=14" /></p> |
 
 <br>
 
-<table align="center" style="width: 100%;">
-  <tr>
-    <td style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; padding: 20px;">
-      <h3 align="center" style="color: #39d353;">📊 Faollik Grafigi</h3>
-      <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruzmamatov99&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&hide_border=true" width="100%" />
-      </p>
-    </td>
-  </tr>
-</table>
+| 📊 Faollik Grafigi |
+| :--- |
+| <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ruzmamatov99&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&hide_border=true" width="100%" /></p> |
 
 <br>
 
