@@ -117,3 +117,7 @@
 
 <img width="1011" height="136" alt="image" src="https://github.com/user-attachments/assets/fad24ce2-4040-47bd-9cb9-24fd9ef3df1b" />
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ruzmamatov99/my-github-assets/main/kamolbek-contribution-art-dark.png" alt="Kamolbek Contribution Art" width="100%" />
+</p>
+
