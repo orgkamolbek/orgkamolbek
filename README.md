@@ -38,6 +38,7 @@
   <a href="https://instagram.com/ruzmamatov.99">
     <img src="https://img.shields.io/badge/Instagram-@ruzmamatov.99-FF00FF?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=ruzmamatov99&label=PROFILE+VIEWS&color=39d353&style=flat-square" alt="Visitor Counter" />
 </p>
  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
 
