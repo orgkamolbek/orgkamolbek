@@ -123,14 +123,22 @@
 
 
 <p align="center">
-  <svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect width="800" height="200" fill="#0d1117"/>
-    <path d="M50 100H150M150 100L180 70M150 100L180 130M180 70H250M180 130H300M300 130L330 100H450M450 100L480 130H600M480 130L510 160M600 130L630 100H750" stroke="#39d353" stroke-width="2" stroke-dasharray="5 5">
-      <animate attributeName="stroke-dashoffset" from="100" to="0" dur="5s" repeatCount="indefinite" />
-    </path>
-    <circle cx="150" cy="100" r="4" fill="#39d353" />
-    <circle cx="330" cy="100" r="4" fill="#39d353" />
-    <circle cx="480" cy="130" r="4" fill="#79ffad" />
-    <text x="50%" y="50" dominant-baseline="middle" text-anchor="middle" fill="#79ffad" font-family="monospace" font-size="20" font-weight="bold">SYSTEM ARCHITECTURE ACTIVE</text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/render?type=venom&color=auto&height=200&section=header&text=ARCHITECT&fontSize=80&animation=fadeIn" width="100%" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=INITIALIZING+SYSTEM...;LOADING+FRONTEND+CORE...;STATUS:+READY+TO+BUILD" alt="Typing SVG" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruzmamatov99&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruzmamatov99&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruzmamatov99&theme=tokyonight" width="49%" />
 </p>
