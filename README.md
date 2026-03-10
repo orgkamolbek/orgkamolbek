@@ -97,6 +97,13 @@
 
 ---
 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LmN8STYf3o4dF23v7O/giphy.gif" width="400" />
+</div>
+<img width="1011" height="136" alt="image" src="https://github.com/user-attachments/assets/fad24ce2-4040-47bd-9cb9-24fd9ef3df1b" />
+
+
 <div align="center">
   <br />
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
@@ -112,7 +119,27 @@
 
 
 
-<img width="1011" height="136" alt="image" src="https://github.com/user-attachments/assets/fad24ce2-4040-47bd-9cb9-24fd9ef3df1b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
