@@ -144,3 +144,29 @@
 
 
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=1a1a2e&height=200&section=header&text=RO'ZMAMATOV%20KAMOLBEK&fontSize=60&fontColor=00f2fe&animation=fadeIn&desc=Full%20Stack%20Engineer%20|%20System%20Architect&descSize=20&descAlignY=70" width="100%" />
+</div>
+
+
+
+
+
+
+
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=slice&color=0d1117&height=200&section=header&text=RO'ZMAMATOV%20KAMOLBEK&fontSize=60&fontColor=8cff00&animation=slide&desc=Software%20Developer%20|%20Innovator&descSize=20&descAlignY=70" width="100%" />
+</div>
+
+
+
+
+
+
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=161b22&height=180&section=header&text=RO'ZMAMATOV%20KAMOLBEK&fontSize=50&fontColor=ffffff&desc=Building%20the%20Future%20of%20Code&descSize=18&descAlignY=70" width="100%" />
+</div>
