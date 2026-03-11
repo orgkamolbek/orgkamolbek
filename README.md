@@ -16,6 +16,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=SYSTEM+OVERRIDE...;ACCESS+GRANTED;DEVELOPER+MODE+ON" />
 </p>
 
+
+
 <pre align="center">
  ██╗  ██╗ █████╗ ███╗   ███╗ ██████╗ ██╗     ██████╗ ███████╗██╗  ██╗
  ██║ ██╔╝██╔══██╗████╗ ████║██╔═══██╗██║     ██╔══██╗██╔════╝██║ ██╔╝
@@ -25,13 +27,12 @@
  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═════╝ ╚══════╝╚═╝  ╚═╝
 </pre>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ruzmamatov99/ruzmamatov99/main/Gemini_Generated_Image_ulpvxrulpvxrulpv.png" width="50%" alt="Ro'zmamatov Kamolbek">
-</div
  
 <h3 align="center" style="color:#8A2BE2; text-shadow: 0 0 5px #8A2BE2, 0 0 10px #8A2BE2;">
   ⚡ Middle Frontend Developer | Code Gamer | UI Architect
 </h3>
+
+
 
 <p align="center">
   <a href="https://t.me/rkamolbekk99">
