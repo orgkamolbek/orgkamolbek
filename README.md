@@ -12,6 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=INITIALIZING+SYSTEM...;LOADING+FRONTEND+CORE...;STATUS:+READY+TO+BUILD" alt="Typing SVG" />
 </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=SYSTEM+OVERRIDE...;ACCESS+GRANTED;DEVELOPER+MODE+ON" />
 </p>
