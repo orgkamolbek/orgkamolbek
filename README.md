@@ -8,6 +8,7 @@
   👾 Ro'zmamatov Kamolbek 👾
 </h1>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=INITIALIZING+SYSTEM...;LOADING+FRONTEND+CORE...;STATUS:+READY+TO+BUILD" alt="Typing SVG" />
 </p>
@@ -123,3 +124,4 @@
   </p>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
 </div>
+
