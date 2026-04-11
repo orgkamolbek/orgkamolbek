@@ -35,16 +35,16 @@
 
 
 <p align="center">
-  <a href="https://t.me/rkamolbekk99">
-    <img src="https://img.shields.io/badge/Telegram-@rkamolbekk99-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <a href="https://t.me/orgkamolbekk">
+    <img src="https://img.shields.io/badge/Telegram-@orgkamolbek-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://k-ruzmamatov.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-39FF14?style=for-the-badge&logo=firefox&logoColor=black"/>
   </a>
-  <a href="https://instagram.com/ruzmamatov.99">
-    <img src="https://img.shields.io/badge/Instagram-@ruzmamatov.99-FF00FF?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://instagram.com/orgkamolbek">
+    <img src="https://img.shields.io/badge/Instagram-@orgkamolbek-FF00FF?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ruzmamatov99&label=PROFILE+VIEWS&color=39d353&style=flat-square" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=orgkamolbek&label=PROFILE+VIEWS&color=39d353&style=flat-square" alt="Visitor Counter" />
 </p>
  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
 
@@ -67,11 +67,11 @@
 
 <br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ruzmamatov99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=ffffff" alt="Kamolbek Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=orgkamolbek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=ffffff" alt="Kamolbek Stats" />
 
 <br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ruzmamatov99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=ffffff" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=orgkamolbek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=ffffff" alt="Top Languages" />
 
 </div>
 
@@ -81,23 +81,23 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruzmamatov99&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=orgkamolbek&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruzmamatov99&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orgkamolbek&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruzmamatov99&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruzmamatov99&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=orgkamolbek&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=orgkamolbek&theme=tokyonight" width="49%" />
 </p>
 
 
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzmamatov99&theme=neon&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=orgkamolbek&theme=neon&hide_border=true" width="100%" />
 </p>
 
 
@@ -116,9 +116,37 @@
   <br />
   <h2 align="center">✨ Thanks for visiting my digital space! ✨</h2>
   <p align="center">
-    <a href="https://t.me/rkamolbekk99"><b>Telegram</b></a> • 
+    <a href="https://t.me/orgkamolbek"><b>Telegram</b></a> • 
     <a href="https://k-ruzmamatov.netlify.app/"><b>Portfolio</b></a> • 
-    <a href="https://instagram.com/ruzmamatov.99"><b>Instagram</b></a>
+    <a href="https://instagram.com/orgkamolbek"><b>Instagram</b></a>
   </p>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="https://private-user-images.githubusercontent.com/233602085/564683811-7a7b9a79-76d8-4ae9-8222-ab7eb32638fd.svg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzU5MTAxMjgsIm5iZiI6MTc3NTkwOTgyOCwicGF0aCI6Ii8yMzM2MDIwODUvNTY0NjgzODExLTdhN2I5YTc5LTc2ZDgtNGFlOS04MjIyLWFiN2ViMzI2MzhmZC5zdmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQxMVQxMjE3MDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01NDFjZTJlMzA5MTk1ODdlNTc1MTVhYzZhNWRhM2MzNjMyMjQ4MGU2MDFlYWMzOTJhMDYxNTFhZDgwODllYzQ1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZzdmclMkJ4bWwifQ.iVD4K8QplBZUK5rqAVvfCFFy2dfjDFPMq2mTzWER3tI" alt="custom-dark" style="max-width: 100%;">
