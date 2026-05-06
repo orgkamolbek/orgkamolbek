@@ -40,7 +40,7 @@
   <a href="https://t.me/orgkamolbekk">
     <img src="https://img.shields.io/badge/Telegram-@orgkamolbek-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://k-ruzmamatov.netlify.app">
+  <a href="https://orgkamolbek.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-39FF14?style=for-the-badge&logo=firefox&logoColor=black"/>
   </a>
   <a href="https://instagram.com/orgkamolbek">
