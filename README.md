@@ -120,7 +120,7 @@
   <h2 align="center">✨ Thanks for visiting my digital space! ✨</h2>
   <p align="center">
     <a href="https://t.me/orgkamolbek"><b>Telegram</b></a> • 
-    <a href="https://k-ruzmamatov.netlify.app/"><b>Portfolio</b></a> • 
+    <a href="https://orgkamolbek.netlify.app/"><b>Portfolio</b></a> • 
     <a href="https://instagram.com/orgkamolbek"><b>Instagram</b></a>
   </p>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
