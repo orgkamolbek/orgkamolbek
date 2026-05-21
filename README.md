@@ -51,7 +51,7 @@
  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
 
 
-<img src="https://private-user-images.githubusercontent.com/233602085/564683811-7a7b9a79-76d8-4ae9-8222-ab7eb32638fd.svg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzU5MTAxMjgsIm5iZiI6MTc3NTkwOTgyOCwicGF0aCI6Ii8yMzM2MDIwODUvNTY0NjgzODExLTdhN2I5YTc5LTc2ZDgtNGFlOS04MjIyLWFiN2ViMzI2MzhmZC5zdmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQxMVQxMjE3MDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01NDFjZTJlMzA5MTk1ODdlNTc1MTVhYzZhNWRhM2MzNjMyMjQ4MGU2MDFlYWMzOTJhMDYxNTFhZDgwODllYzQ1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZzdmclMkJ4bWwifQ.iVD4K8QplBZUK5rqAVvfCFFy2dfjDFPMq2mTzWER3tI" alt="custom-dark" style="max-width: 100%;">
+
 
 ![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
 ![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
